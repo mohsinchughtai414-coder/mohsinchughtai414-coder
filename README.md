@@ -29,7 +29,7 @@ Currently developing my technical skills and seeking a Software Engineering Degr
 
 ### 📂 Projects
 
-#### AI Alt Text Generator
+#### [AI Alt Text Generator](https://github.com/mohsinchughtai414-coder/ai-alt-text-generator)
 
 An AI-powered WordPress plugin designed to improve website accessibility by generating missing image alt text through individual and bulk processing.
 
